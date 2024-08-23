@@ -1,0 +1,133 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    background-color: #EEF7FF;
+}
+
+h1 {
+    margin-top: 0;
+    font-family: "Satisfy", cursive;
+    color: #AD49E1;
+    font-size: 80px;
+    margin: 50px auto 0 auto;
+}
+
+h2 {
+    color: #AD49E1;
+    font-weight: normal;
+    line-height: 2;
+    font-size: 35px;
+}
+
+h3 {
+    color: #8932b9;
+}
+
+a {
+    color: rgb(55, 41, 255);
+    margin: 20px 10px;
+    text-decoration: none;
+}
+a:hover {
+    color: #EEF7FF;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    line-height: 2;
+}
+
+.box1 {
+    background-color: #F1EAFF;
+    position: relative;
+    padding-top: 100px;
+}
+.box2 {
+    margin: 100px 0;
+}
+.box3 {
+    background-color: rgb(212, 133, 255);
+    padding: 40px 0 10px;
+
+}
+
+.pro {
+    text-decoration: underline;
+}
+.intro {
+    width: 40%;
+    margin: auto;
+}
+
+.cloud-1 {
+    position: absolute;
+    right: 250px;
+    top: 50px;
+}
+
+.cloud-2 {
+    position: absolute;
+    left: 250px;
+    top: 400px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+
+.code-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.sports-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+hr {
+    border: dotted #a3fbfb 8px;
+    border-top: none;
+    width: 8%;
+    size: 100px;
+    margin: 80px auto;
+}
+.cnt-me {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+ .copyright {
+    color: aliceblue;
+    font-size: medium;
+ }
